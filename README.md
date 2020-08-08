@@ -69,4 +69,4 @@ Install all dependencies listed in *requirements.txt* file.
 ---
 #### Star the Repo in case you liked it :)
 
-# © [Anand PS Kerala](https://github.com/Anandpskerala)
+# © [[ ★彡 Anand 彡★]](https://github.com/Anandpskerala)
