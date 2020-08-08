@@ -20,12 +20,6 @@ def search():
     result = YoutubeSearch(text).get_it()
     return jsonify(result)
 
-@app.route("/query/<text>")
-def searchurl(text):
-    #text = request.args.get('q')
-    result = YoutubeSearch(text).get_it()
-    return jsonify(result)
-
 
 @app.errorhandler(404)
 def notfound(e):
@@ -34,4 +28,4 @@ def notfound(e):
 
 if __name__ == "__main__":
     app.debug = True
-    app.run(host="127.0.0.1", port="5000")
+    app.run(host="0.0.0.0", port="5000")
