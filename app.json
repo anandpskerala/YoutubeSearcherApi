@@ -1,0 +1,12 @@
+{
+  "name": "YoutubeSearcherApi",
+  "description": "Unofficial API of Youtube",
+  "keywords": [
+    "flask",
+    "python",
+    "scrapper",
+    "youtube"
+  ],
+  "success_url": "https://t.me/Keralasbots",
+  "repository": "https://github.com/Anandpskerala/YoutubeSearcherApi"
+}
